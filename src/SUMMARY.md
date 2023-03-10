@@ -1,5 +1,6 @@
 # Summary
 
 - [introduction](./introduction.md)
-- [Actix web with Tera](./chapter_1.md)
+- [Configuring to your project](./configure.md)
+- [Roadmap](./roadmap.md)
 - [History How it was done](./history.md)
