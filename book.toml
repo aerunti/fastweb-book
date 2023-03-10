@@ -1,0 +1,6 @@
+[book]
+authors = ["Aerun"]
+language = "en"
+multilingual = false
+src = "src"
+title = "FastWeb - Develop for Web with Rust (Actix-web/sqlx/tera) and Postgresql"
