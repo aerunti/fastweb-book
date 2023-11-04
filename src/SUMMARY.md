@@ -10,6 +10,7 @@
 - [Postgresql](postgresql/intro.md)
     - [install](postgresql/install.md)
     - [backup and restore](postgresql/backup.md)
+    - [basic queries](postgresql/basic_queries.md)
 - [FFMPEG](ffmpeg/install.md)
     - [RTSP TO HLS](ffmpeg/rtsp2hls.md)
 - [Rust](rust/install.md)
@@ -23,12 +24,17 @@
 - [VsCode](VsCode/intro.md)
    - [Shortcuts](VsCode/shortcuts.md)
    - [Tips](VsCode/tips.md)
+   - [Config](VsCode/config.md)
 - [DBeaver](DBeaver/intro.md)
     - [config](DBeaver/config.md)
 - [Mediamtx API](mediamtx/api.md)
 - [FastAPI](fastapi/intro.md)
     - [Tutorial](fastapi/tutorial.md)
 - [Rsync](rsync/backup.md)
+- [Nvidia Cuda](nvidia/cuda_install.md)
+- [Devops Guide](devops/guide.md)
+- [Tests in Rust](tests/crates.md)
+- [DataScience](datascience/cheatsheet.md)
    
  
     
