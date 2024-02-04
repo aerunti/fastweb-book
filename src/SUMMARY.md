@@ -1,5 +1,6 @@
 # Summary
 
+<<<<<<< HEAD
 - [About FastWeb](./about.md)
 - [Desenvolvimento de Sistemas](programacao/o-que-e.md)
 - [Fastweb](fastweb/actix_stack.md)
@@ -55,3 +56,9 @@
    
  
     
+=======
+- [introduction](./introduction.md)
+- [Configuring to your project](./configure.md)
+- [Roadmap](./roadmap.md)
+- [History How it was done](./history.md)
+>>>>>>> a22c920fc3273d50fc9a4fae367c7f4f061429b2
