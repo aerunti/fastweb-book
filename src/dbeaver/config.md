@@ -10,7 +10,7 @@
 
 <br><br><br>
 
-- 2) Ir na aba SSH e selecionar "Usar SSH tunel" e preencher os campos Host,User Name e Password(esses dados tem que pegar no ssh.config do seu projeto remoto).
+- 2) Ir na aba SSH e selecionar "Usar SSH tunel" e preencher os campos Host,User Name e Password(esses dados tem que pegar no ssh.config do seu projeto remoto) e nao esquecer de alterar a porta correta.
 - Após selecionar o SSH Tunel vai mais abaixo e testa "Test tunner configuration"
 
 ![Alt text](image-2.png)
@@ -23,6 +23,6 @@
 
 <br><br><br>
 
-- 4) Pra finalizar só verifica qual banco de dados vai selecionar e botar senha!
+- 4) Pra finalizar só verifica qual banco de dados vai selecionar e botar senha!(esses dados ficam no seu .env do seu projeto)
 
 ![Alt text](image-4.png)

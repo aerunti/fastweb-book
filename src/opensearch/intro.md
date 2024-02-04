@@ -32,7 +32,7 @@ ps:cwa
 
 Execute o comando abaixo
 
-    curl -X PUT http://localhost:9200/data/materias-2023/_doc/1 \
+    curl -X PUT https://localhsot:9200/mycolletcion/_doc/1 \
     -H 'Content-Type: application/json' \
     -d '{
     "mappings": {
@@ -48,7 +48,7 @@ Execute o comando abaixo
         }
     }
     }' \
-    --insecure
+    -u 'user:password' --insecure
 
 Com isso, o index ja estara Criado       
     

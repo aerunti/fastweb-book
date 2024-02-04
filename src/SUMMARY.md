@@ -1,6 +1,7 @@
 # Summary
 
 - [About FastWeb](./about.md)
+- [Desenvolvimento de Sistemas](programacao/o-que-e.md)
 - [Fastweb](fastweb/actix_stack.md)
     - [Tutorial - How create a new page (query/model/controller/template)](fastweb/newpage.md)
 - [why not axum stack](axum/axum_stack.md)
@@ -21,12 +22,12 @@
 - [OpenSearch](opensearch/intro.md)
 - [Certbot](certbot/nginx-ubuntu2204.md)
 - [Clonezilla](clonezilla/intro.md)
-- [VsCode](VsCode/intro.md)
-   - [Shortcuts](VsCode/shortcuts.md)
-   - [Tips](VsCode/tips.md)
-   - [Config](VsCode/config.md)
-- [DBeaver](DBeaver/intro.md)
-    - [config](DBeaver/config.md)
+- [VsCode](vscode/intro.md)
+   - [Shortcuts](vscode/shortcuts.md)
+   - [Tips](vscode/tips.md)
+   - [Config](vscode/config.md)
+- [DBeaver](dbeaver/intro.md)
+    - [config](dbeaver/config.md)
 - [Mediamtx API](mediamtx/api.md)
 - [FastAPI](fastapi/intro.md)
     - [Tutorial](fastapi/tutorial.md)
@@ -35,6 +36,22 @@
 - [Devops Guide](devops/guide.md)
 - [Tests in Rust](tests/crates.md)
 - [DataScience](datascience/cheatsheet.md)
+- [Cornucopia ](cornucopia/intro.md)
+- [Inteligência Artificial](ai/intro.md)
+    - [Classificação de Imagens](ai/image-classification.md)
+- [php-5.6 com Docker Ubuntu 22.04](docker-php5.6/intro.md)
+- [FastWeb Course](course/intro.md)
+    - [Rust for Web Development](course/rust.md)
+    - [Actix](course/basic_actix.md)
+    - [Minijinja](course/basic_minijinja.md)
+    - [Cornucopia and PostgreSql](course/basic_cornucopia.md)
+    - [Tenants and Role-Based](course/basic_tenants.md)
+    - [Creating your content](course/basic_content.md)
+    - [More complex example](course/complex.md)
+
+    
+    
+    
    
  
     
